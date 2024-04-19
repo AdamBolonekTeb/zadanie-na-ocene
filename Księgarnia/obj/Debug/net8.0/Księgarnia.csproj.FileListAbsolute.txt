@@ -1,0 +1,14 @@
+C:\Users\adam\source\repos\Księgarnia\Księgarnia\bin\Debug\net8.0\Księgarnia.exe
+C:\Users\adam\source\repos\Księgarnia\Księgarnia\bin\Debug\net8.0\Księgarnia.deps.json
+C:\Users\adam\source\repos\Księgarnia\Księgarnia\bin\Debug\net8.0\Księgarnia.runtimeconfig.json
+C:\Users\adam\source\repos\Księgarnia\Księgarnia\bin\Debug\net8.0\Księgarnia.dll
+C:\Users\adam\source\repos\Księgarnia\Księgarnia\bin\Debug\net8.0\Księgarnia.pdb
+C:\Users\adam\source\repos\Księgarnia\Księgarnia\obj\Debug\net8.0\Księgarnia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adam\source\repos\Księgarnia\Księgarnia\obj\Debug\net8.0\Księgarnia.AssemblyInfoInputs.cache
+C:\Users\adam\source\repos\Księgarnia\Księgarnia\obj\Debug\net8.0\Księgarnia.AssemblyInfo.cs
+C:\Users\adam\source\repos\Księgarnia\Księgarnia\obj\Debug\net8.0\Księgarnia.csproj.CoreCompileInputs.cache
+C:\Users\adam\source\repos\Księgarnia\Księgarnia\obj\Debug\net8.0\Księgarnia.dll
+C:\Users\adam\source\repos\Księgarnia\Księgarnia\obj\Debug\net8.0\refint\Księgarnia.dll
+C:\Users\adam\source\repos\Księgarnia\Księgarnia\obj\Debug\net8.0\Księgarnia.pdb
+C:\Users\adam\source\repos\Księgarnia\Księgarnia\obj\Debug\net8.0\Księgarnia.genruntimeconfig.cache
+C:\Users\adam\source\repos\Księgarnia\Księgarnia\obj\Debug\net8.0\ref\Księgarnia.dll
